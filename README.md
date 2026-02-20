@@ -17,3 +17,14 @@ The goal was to simulate an exposed internet host, observe attacker behavior, an
 - Capture real attack attempts
 
 - Analyze basic attacker behavior
+
+
+# Tools & Technologies
+
+- T-Pot (Multi-honeypot platform)
+
+- Ubuntu Linux (Cloud VPS)
+
+- HTTPS Web Dashboard
+
+- SSH
