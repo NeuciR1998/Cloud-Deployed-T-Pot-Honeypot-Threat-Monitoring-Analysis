@@ -28,3 +28,13 @@ The goal was to simulate an exposed internet host, observe attacker behavior, an
 - HTTPS Web Dashboard
 
 - SSH
+
+# Key Findings
+
+Public IP addresses are scanned shortly after being exposed
+
+SSH is one of the most targeted services
+
+Most attack attempts appear automated
+
+Basic usernames like root and admin are commonly used in attacks
