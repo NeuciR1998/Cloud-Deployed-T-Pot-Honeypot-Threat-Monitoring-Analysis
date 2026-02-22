@@ -38,3 +38,39 @@ SSH is one of the most targeted services
 Most attack attempts appear automated
 
 Basic usernames like root and admin are commonly used in attacks
+
+
+
+
+
+<img width="800" height="419" alt="honeypot2" src="https://github.com/user-attachments/assets/07a55ef0-f657-4998-8a7a-e0ec4c861359" />
+
+- Deployed Ubuntu 22.04 (4GB) cloud instance in Chicago to host a T-Pot honeypot with a public IP for real-world attack monitoring.
+
+  <p align="center">
+
+</p>
+
+<br>
+
+<p align="center">
+
+</p>
+
+
+### Firewall Configuration
+
+<img width="800" height="858" alt="image" src="https://github.com/user-attachments/assets/4cde1114-bf82-4933-bde6-67dbbe25d964" />
+      *Configured firewall rules to balance attack surface exposure for threat monitoring while maintaining secure administrative access.*
+
+</p>
+
+<br>
+
+<p align="center">
+
+</p>
+
+<img width="800" height="438" alt="honeypot3" src="https://github.com/user-attachments/assets/dcd60884-8485-47ff-baa4-9f8b607d2723" />
+
+
