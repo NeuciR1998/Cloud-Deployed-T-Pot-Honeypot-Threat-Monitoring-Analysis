@@ -87,6 +87,34 @@ Basic usernames like root and admin are commonly used in attacks
 <img width="800" height="648" alt="image" src="https://github.com/user-attachments/assets/66bd7e6e-fd6d-4b76-b5ad-3ca66c646838" />
 
 - *Overview of the honeypot’s public IP showing total attacks, number of different attackers, and the most targeted services such as SSH and MySQL.*
+  
+</p>
+
+<br>
+
+<p align="center">
+
+</p>
+
+
+  <img width="800" height="437" alt="honeypot elastic" src="https://github.com/user-attachments/assets/0cff1b33-2b62-4d0d-8250-13fcfde391c4" />
+
+  - *Threat analysis dashboard in Elastic highlighting attack patterns, event counts, and source diversity across multiple honeypot services.*
+    
+</p>
+
+<br>
+
+<p align="center">
+
+</p>
+
+ 
+<img width="800" height="433" alt="honeypot5" src="https://github.com/user-attachments/assets/a937a243-12a1-4fde-abb0-b8f5309fda97" />
+
+    - *Overview of attempted login credentials, highlighting frequent usernames like “root” and common weak passwords.*
+
+
 
   
 
